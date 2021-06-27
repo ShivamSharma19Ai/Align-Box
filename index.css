@@ -438,6 +438,10 @@ body{
     background-color: beige;
     border: 1px solid;
     }
+    @media screen and (max-width: 1060px) {
+        .header{ width:1060px;}
+        .quiz-items{display:none}  
+    }
 
     
     
