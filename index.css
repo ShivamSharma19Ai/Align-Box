@@ -483,7 +483,7 @@ body{
             display: block;
         }
         .left{
-            margin-left: 0px;
+            left: 0px;
         }
     }
     
