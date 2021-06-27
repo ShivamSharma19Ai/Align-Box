@@ -440,6 +440,9 @@ body{
     }
     @media screen and (max-width: 1060px) {
         .header{ width:1060px;}
+        .quiz-place{width:100%}
+        .right{display:none}
+        
         .quiz-items{display:none}  
     }
 
