@@ -481,7 +481,10 @@ body{
         }
         #toggle:checked + .menu {
             display: block;
-        }   
+        }
+        .left{
+            margin-left: 0px;
+        }
     }
     
 
